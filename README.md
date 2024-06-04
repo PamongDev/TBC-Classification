@@ -52,6 +52,13 @@ You can found Dataset TBC in [here](https://drive.google.com/drive/folders/1CwId
 - scaling with 224x224
 - encode in pickle with dictionary format
 
+## Tunning Parameter
+
+- Learning Rate : 0.001 , 0.0001 , 0.00001
+- Batch Size : 16, 32, 64
+- Optimizer : Adam, RMSProp, SGD, SGDM
+- epoch : 20
+  
 ## Performance
 
 ### Validation Performance
