@@ -24,12 +24,12 @@ You can found Dataset TBC in [here](https://drive.google.com/drive/folders/1CwId
 
 ### Proportion TBC's Dataset :
 <table>
-  <th>
-    <td>Label Data</td>
-    <td>Training Data</td>
-    <td>Validation Data</td>
-    <td>Testing Data</td>
-  </th>
+  <tr>
+    <th>Label Data</td>
+    <th>Training Data</td>
+    <th>Validation Data</td>
+    <th>Testing Data</td>
+  </tr>
   <tr>
     <td>**TBC**</td>
     <td>404</td>
